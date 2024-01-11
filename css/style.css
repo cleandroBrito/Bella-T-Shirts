@@ -6,9 +6,7 @@
 }
 
 body {
-    background-image: url(../img/fundo.jpeg);
-    background-repeat: repeat-y;
-    background-size: cover;
+    background-color: black;
     font-family: 'Roboto Mono', monospace;
 }
 
